@@ -1,0 +1,4 @@
+node_modules/
+xploton_server_data/
+.env
+*.log
